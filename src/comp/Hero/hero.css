@@ -1,0 +1,13 @@
+.hero-cont-two,
+.hero-container {
+  display: flex;
+  justify-content: center;
+  align-items: centers;
+  width: 100%;
+}
+
+.hero-cont-one {
+  display: flex;
+  padding: 20px 0;
+  width: 100%;
+}
